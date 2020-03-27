@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="repository.amber.matrix" name="Amber Repository - Matrix" provider-name="bsoriano" version="1.0.0">
+<addons><addon id="repository.amber.matrix" name="Amber Repository - Matrix" provider-name="bsoriano" version="1.0.1">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0" />
 	</requires>
 	<extension name="Amber Repo" point="xbmc.addon.repository">
-		<dir minversion="19.0">
+		<dir minversion="18.9.0">
 			<info compressed="true">https://github.com/bartolomesoriano/repo.amber.matrix/raw/master/addons.xml</info>
 			<checksum>https://github.com/bartolomesoriano/repo.amber.matrix/raw/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/bartolomesoriano/repo.amber.matrix/raw/master</datadir>
