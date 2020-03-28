@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.0[/I][CR]- Initial Release</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.55">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.56">
     <requires>
         <import addon="xbmc.gui" version="5.14.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -97,7 +97,9 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.3.55 (26-03-2020)
+        <news>3.3.56 (28-03-2020)
+		- Separate options to show main rating and cert in media views
+		3.3.55 (26-03-2020)
 		- Final fix for default view not set on skin switch
 		3.3.53 (26-03-2020)
 		- Try further fix for default view not set on first use
