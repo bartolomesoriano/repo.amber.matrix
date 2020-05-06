@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.67">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.73">
     <requires>
         <import addon="xbmc.gui" version="5.14.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -97,7 +97,9 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.3.67 (05-05-2020)
+        <news>3.3.73 (06-05-2020)
+        - Skin LibreELEC settings dialogs
+		3.3.67 (05-05-2020)
         - Fix recently added shelves issue
 		3.3.66 (04-05-2020)
 		- Remove number of movies in collection from top right overlay
