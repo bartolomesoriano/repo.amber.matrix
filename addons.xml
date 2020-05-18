@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.81">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.82">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -96,7 +96,12 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.3.81 (17-05-2020)
+        <news>3.3.82 (18-05-2020)
+        - Make optional settings for backgrounds and info lines
+        - Fixes for fanart view
+        - Show play count for songs in media views
+        - More French language fixes
+		3.3.81 (17-05-2020)
         - Bump GUI version to 5.15
         - Remove skin.helper.widgets dependency
 		3.3.80 (15-05-2020)
