@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.84">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.85">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -70,7 +70,13 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.3.84 (21-05-2020)
+        <news>3.3.85 (27-05-2020)
+		- Up to 5 Custom Shelves
+		- Option to show Three Shelves Together
+		- Option to show triple row shelves
+		- Complete French translation
+		- Misc. fixes
+		3.3.84 (21-05-2020)
 		- Option to show/hide media play count in views
 		- Fix showing time to go to when seeking with numbers
 		- More French language fixes
