@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.92">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.3.93">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -70,10 +70,14 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.3.92 (12-06-2020)
+        <news>3.3.93 (17-06-2020)
+		- Faster cast if show only local info
+		- Custom paths for video and music genre icons and fanart
+		- Oscars and Golden Globes info in video info dialog
+		- Misc. Fixes
+		3.3.92 (12-06-2020)
 		- Three row shelves with larger icons
 		- New View Selector/Configurator (uses script.skinvariables)
-		- Remove default view functionality
 		- Misc. Fixes
 		3.3.88 (06-06-2020)
         - Fixes to new alphabet strip for mouse use
