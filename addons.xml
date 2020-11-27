@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.3">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.4">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -70,7 +70,12 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.4.3 (25-11-2020)
+        <news>3.4.4 (27-11-2020)
+		- Fix overlay position in fanart view
+		- Make weather info consistent between menu and shelves
+		- Smaller default font for better readability in other languages
+		- Update French translation
+		3.4.3 (25-11-2020)
 		- Add Netflix-style options to Fanart view
 		- Add dim options for Fanart view
 		- Misc. fixes
