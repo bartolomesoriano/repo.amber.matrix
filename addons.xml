@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.6">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.7">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -70,7 +70,11 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.4.6 (13-12-2020)
+        <news>3.4.7 (14-12-2020)
+		- Fix header poistioning in select dialogs
+		- Fix missing localizations
+		- Update French translation
+		3.4.6 (13-12-2020)
 		- Provide color picker without addons (thx jurialmunkey)
 		- Replace backup options with script.xbmcbackup
 		- Add auto close video OSD options
