@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.9">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.10">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -70,7 +70,10 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.4.9 (24-12-2020)
+        <news>3.4.10 (31-12-2020)
+		- Add smaller favourites options
+		- Fixes for inclusion in Kodi repo
+		3.4.9 (24-12-2020)
 		- Fix OK label not showing in select dialog
 		3.4.8 (23-12-2020)
 		- Add fanart.jpg as background option (for files mode)
