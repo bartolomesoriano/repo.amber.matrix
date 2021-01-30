@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.12">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.13">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -70,7 +70,13 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.4.12 (07-01-2021)
+        <news>3.4.13 (30-01-2021)
+		- Icon only vertical menu/submenu 
+		- Video Lyrics (thx manfeed)
+		- High position for shelves
+		- Playing whole albums from shelves optional
+		- Misc. fixes
+		3.4.12 (07-01-2021)
 		- Option to hide seek bar when paused
 		- Use EPGEventIcon instead of just Icon for PVR
 		- Update translations
@@ -83,15 +89,6 @@
 		3.4.10 (31-12-2020)
 		- Add smaller favourites options
 		- Fixes for inclusion in Kodi repo
-		3.4.8 (23-12-2020)
-		- Add fanart.jpg as background option (for files mode)
-		- Add Logo view 
-		- Add Director to all applicable views
-		- Misc. Fixes
-		3.4.7 (14-12-2020)
-		- Fix header poistioning in select dialogs
-		- Fix missing localizations
-		- Update French translation
         </news>
     </extension>
 </addon></addons>
