@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.23">
+</addon><addon id="skin.amber" name="Amber" provider-name="Jester, Joethepartylion, Pecinko, bsoriano" version="3.4.24">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -45,7 +45,10 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.4.23 (29-06-2021)
+        <news>3.4.24 (03-07-2021)
+		- Fixes for OSD and seekbar
+		- Add movie decades playlists and widget option
+		3.4.23 (29-06-2021)
 		- Rework OSD
 		- Option for alternate OSD button highlighting
 		3.4.22 (25-06-2021)
@@ -59,6 +62,7 @@
 		- Misc. fixes
 		
         </news>
+        <summary lang="da_DK">Ingen bloatware, kun dine medier med en brugerflade der er let at navigere</summary>
         <summary lang="de_DE">Keine Bloatware, nur Ihre Medien mit einer leicht zu navigierenden Oberfläche</summary>
         <summary lang="en_AU">No bloatware, just your media with an easy to navigate interface</summary>
         <summary lang="en_GB">No bloatware, just your media with an easy to navigate interface</summary>
