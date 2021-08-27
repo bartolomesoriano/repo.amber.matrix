@@ -16,7 +16,7 @@
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
 	</extension>
-</addon><addon id="skin.amber" name="Amber" provider-name="bsoriano, Jester, Joethepartylion, Pecinko" version="3.4.28">
+</addon><addon id="skin.amber" name="Amber" provider-name="bsoriano, Jester, Joethepartylion, Pecinko" version="3.4.29">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.favourites" version="7.1.1" />
@@ -45,7 +45,11 @@
             <screenshot>resources/screenshot09.jpg</screenshot>
             <screenshot>resources/screenshot10.jpg</screenshot>
         </assets>
-        <news>3.4.28 (23-08-2021)
+        <news>3.4.29 (27-08-2021)
+		- Play trailer from shelf items
+		- Slide out media items when trailer playing
+		- Misc. fixes
+		3.4.28 (23-08-2021)
 		- Show disc art in list views
 		- Use disc instead of thumb for music in fanart view
 		- Misc. fixes
